@@ -1,4 +1,4 @@
 <?php
-#print "Hello Wolrd!";
+print "Hello Wolrd!";
 #phpinfo();
 ?>
